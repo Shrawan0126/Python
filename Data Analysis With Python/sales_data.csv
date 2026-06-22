@@ -1,0 +1,21 @@
+Transaction ID,Date,Product Category,Product Name,Units Sold,Unit Price,Total Revenue,Region,Payment Method
+10001,2024-01-01,Electronics,iPhone 14 Pro,2,999.99,1999.98,North America,Credit Card
+10002,2024-01-02,Home Appliances,Dyson V11 Vacuum,1,499.99,499.99,Europe,PayPal
+10003,2024-01-03,Clothing,Levi’s 501 Jeans,3,69.99,209.97,Asia,Debit Card
+10004,2024-01-04,Books,The Da Vinci Code,4,15.99,63.96,North America,Credit Card
+10005,2024-01-05,Beauty Products,Neutrogena Skincare Set,1,89.99,89.99,Europe,PayPal
+10006,2024-01-06,Sports,Wilson Evolution Basketball,5,29.99,149.95,Asia,Credit Card
+10007,2024-01-07,Electronics,MacBook Pro 16-inch,1,2499.99,2499.99,North America,Credit Card
+10008,2024-01-08,Home Appliances,Philips Airfryer 4801,2,599.99,1199.98,Europe,PayPal
+10009,2024-01-09,Clothing,Nike Air Force 1,6,89.99,539.94,Asia,Debit Card
+10010,2024-01-10,Books,Dune by Frank Herbert,1,25.99,25.99,North America,Credit Card
+10011,2024-01-11,Beauty Products,Chanel No. 5 Perfume,1,129.99,129.99,Europe,PayPal
+10012,2024-01-12,Sports,Babolat Pure Tennis Racket,3,199.99,599.97,Asia,Credit Card
+10013,2024-01-13,Electronics,Samsung Galaxy Tab S8,2,749.99,1499.98,Asia,Credit Card
+10014,2024-01-14,Home Appliances,Keurig K-Elite Coffee Maker,1,189.99,189.99,North America,Credit Card
+10015,2024-01-15,Clothing,North Face Down Jacket,2,249.99,499.98,Asia,Debit Card
+10016,2024-01-16,Books,"Salt, Fat, Acid, Heat by Samin Nosrat",3,35.99,107.97,North America,Credit Card
+10017,2024-01-17,Beauty Products,Dyson Supersonic Hair Dryer,1,399.99,399.99,Europe,PayPal
+10018,2024-01-18,Sports,Manduka PRO Yoga Mat,4,119.99,479.96,Asia,Credit Card
+10019,2024-01-19,Electronics,Garmin Fenix 7,1,499.99,499.99,North America,Credit Card
+10020,2024-01-20,Home Appliances,Ninja Professional Blender,1,99.99,99.99,Europe,PayPal

@@ -1,0 +1,12 @@
+2026-06-21 22:32:49,537 - INFO - Password validation started
+2026-06-21 22:32:49,537 - DEBUG - Received password: abc
+2026-06-21 22:32:49,538 - WARNING - Password too short
+2026-06-21 22:32:49,538 - INFO - Password validation started
+2026-06-21 22:32:49,538 - DEBUG - Received password: abcdefgh
+2026-06-21 22:32:49,538 - WARNING - Password must contain at least one number
+2026-06-21 22:32:49,538 - INFO - Password validation started
+2026-06-21 22:32:49,538 - DEBUG - Received password: abcd1234
+2026-06-21 22:32:49,538 - WARNING - Password must contain at least one uppercase letter
+2026-06-21 22:32:49,538 - INFO - Password validation started
+2026-06-21 22:32:49,538 - DEBUG - Received password: Abcd1234
+2026-06-21 22:32:49,538 - INFO - Password is valid

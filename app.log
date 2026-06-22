@@ -1,0 +1,26 @@
+2026-04-18 12:16:32 - __main__ - DEBUG - The addition function is called
+2026-04-18 12:16:32 - __main__ - DEBUG - The addition operation is taking place
+2026-04-19 11:16:59,745 - INFO - Password validation started
+2026-04-19 11:16:59,746 - DEBUG - Received password: abc
+2026-04-19 11:16:59,746 - WARNING - Password too short
+2026-04-19 11:16:59,746 - INFO - Password validation started
+2026-04-19 11:16:59,746 - DEBUG - Received password: abcdefgh
+2026-04-19 11:16:59,746 - WARNING - Password must contain at least one number
+2026-04-19 11:16:59,746 - INFO - Password validation started
+2026-04-19 11:16:59,746 - DEBUG - Received password: abcd1234
+2026-04-19 11:16:59,746 - WARNING - Password must contain at least one uppercase letter
+2026-04-19 11:16:59,747 - INFO - Password validation started
+2026-04-19 11:16:59,747 - DEBUG - Received password: Abcd1234
+2026-04-19 11:16:59,747 - INFO - Password is valid
+2026-06-21 22:31:51,045 - INFO - Password validation started
+2026-06-21 22:31:51,045 - DEBUG - Received password: abc
+2026-06-21 22:31:51,045 - WARNING - Password too short
+2026-06-21 22:31:51,045 - INFO - Password validation started
+2026-06-21 22:31:51,046 - DEBUG - Received password: abcdefgh
+2026-06-21 22:31:51,046 - WARNING - Password must contain at least one number
+2026-06-21 22:31:51,046 - INFO - Password validation started
+2026-06-21 22:31:51,046 - DEBUG - Received password: abcd1234
+2026-06-21 22:31:51,046 - WARNING - Password must contain at least one uppercase letter
+2026-06-21 22:31:51,046 - INFO - Password validation started
+2026-06-21 22:31:51,046 - DEBUG - Received password: Abcd1234
+2026-06-21 22:31:51,046 - INFO - Password is valid

@@ -1,0 +1,5 @@
+2026-04-18 14:39:45 - module1 - DEBUG - This is a DEBUG message from module1
+2026-04-18 14:39:45 - module1 - INFO - This is an INFO message from module1
+2026-04-18 14:39:45 - module1 - WARNING - This is a WARNING message from module1
+2026-04-18 14:39:45 - module2 - WARNING - This is a WARNING message from module2
+2026-04-18 14:39:45 - module2 - ERROR - This is an ERROR message from module2

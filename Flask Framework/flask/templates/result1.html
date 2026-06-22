@@ -1,0 +1,15 @@
+<html>
+    <h2>
+        Final Result
+    </h2>
+
+    <table border="2">
+        {% for key,value in results.items() %}
+            <tr>
+                {# key and value are the variables passed from the flask app to the template #}
+                <td>{{ key }}</td>
+                <td>{{ value }}</td>
+            </tr>
+        {% endfor %}
+    </table>
+</html>
